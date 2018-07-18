@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JavaSweeper.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JavaSweeper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaSweeper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#131#132#0" expanded="true" />
@@ -29,12 +29,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Box.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sweeper/Box.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -42,6 +52,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/JavaSweeper.java" />
+        <option value="$PROJECT_DIR$/src/sweeper/Box.java" />
       </list>
     </option>
   </component>
@@ -70,6 +81,12 @@
               <item name="JavaSweeper" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaSweeper" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSweeper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSweeper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sweeper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,7 +224,7 @@
     <entry file="file://$PROJECT_DIR$/src/JavaSweeper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#131#132#0" expanded="true" />
@@ -216,6 +233,13 @@
             <element signature="e#510#511#0" expanded="true" />
             <element signature="method#initFrame#0;class#JavaSweeper#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sweeper/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>

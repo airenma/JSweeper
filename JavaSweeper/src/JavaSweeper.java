@@ -31,7 +31,7 @@ public class JavaSweeper extends JFrame
                 super.paintComponent(g);
                 g.drawImage(getImage("bomb"), 0, 0, this);
                 g.drawImage(getImage("num1"), IMAGE_SIZE, 0, this);
-                
+
             }
         };
         panel.setPreferredSize(new Dimension(COLS * IMAGE_SIZE,
