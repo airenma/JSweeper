@@ -1,5 +1,7 @@
 package sweeper;
 
+
+
 public enum Box
 {
     ZERO,
@@ -18,4 +20,7 @@ public enum Box
     FLAGED,
     BOMBED,
     NOBOMB;
+
+    public Object image;
+
 }
