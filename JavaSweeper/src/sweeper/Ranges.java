@@ -15,11 +15,7 @@ public class Ranges
             for(int y = 0; y < size.y; y++)
                 allCoords.add(new Coord (x, y));
     }
-    static public void setSize(int cols, int rows)
-    {
-        Coord size = new Coord (cols, rows);
-        setSize(size);
-    }
+
 
     public static Coord getSize()
     {
